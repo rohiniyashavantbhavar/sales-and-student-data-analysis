@@ -23,4 +23,3 @@ This repository contains two beginner-friendly Data Analyst projects:
 2. Run `student_analysis.sql` in MySQL / SQLite / SQL Server.
 
 ---
-Created for **Rohini Yashavant Bhavar – Data Analyst Fresher Portfolio**
